@@ -8,12 +8,18 @@ This project is dedicated to creating a comfortable, safe, and happy living envi
 
 ## Features
 
-- 🌡️ **Temperature Monitoring** - Keep the coop at the perfect temperature
-- 💡 **Smart Lighting** - Automated lighting systems for optimal egg production
-- 🍗 **Automated Feeders** - Never worry about missed feeding times
-- 📹 **Security Monitoring** - Keep an eye on the flock
-- 🚪 **Automated Door Systems** - Secure coop access control
+- ⏳ 🌡️ **Temperature Monitoring** - Keep the coop at the perfect temperature
+- ⏳ 💡 **Smart Lighting** - Automated lighting systems for optimal egg production
+- ⏳ 🍗 **Automated Feeders** - Never worry about missed feeding times
+- ⏳ 📹 **Security Monitoring** - Keep an eye on the flock
+- 🚧 🚪 **Automated Door Systems** - Secure coop access control *(In Progress - Parts acquired!)*
 - And more upgrades to come! 🚀
+
+## Legend
+
+- ⏳ = Planned
+- 🚧 = In Progress
+- ✅ = Completed
 
 ## Getting Started
 
